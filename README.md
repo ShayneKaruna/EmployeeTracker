@@ -48,5 +48,7 @@ Learn more about the license from the following link: [https://choosealicense.co
 ## Questions and Inquiry
 
 For any questions contact me:
+
 shayne_karuna@hotmail.com
+
 [Github Profile] https://github.com/ShayneKaruna/EmployeeTracker
