@@ -8,7 +8,8 @@ Watch a video of it in use: https://app.castify.com/watch/b16e1c01-c126-49d0-8e8
 - You can create and view employees, roles, and departments.
 - You can also update/assign employees to new roles.
 
-<img src="./assets/images/Screenschot_1.jpg">
+![Screenshot_1](https://user-images.githubusercontent.com/112900215/203448219-c7820b6e-f545-4c84-8624-c1e01c7dbf3d.JPG)
+
 
 ## Table of Contents
 
