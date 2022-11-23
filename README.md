@@ -8,11 +8,11 @@ Watch a video of it in use: https://app.castify.com/watch/b16e1c01-c126-49d0-8e8
 - You can create and view employees, roles, and departments.
 - You can also update/assign employees to new roles.
 
-![Screenshot of app](./Assets/Screenshot_1.jpg)
+![Screenshot of app]<img src="./Assets/Screenshot_1.jpg"/>
 
 ## Table of Contents
 
-- [Employee Tracker](#employee-management-system)
+-   [Employee Tracker](#employee-management-system)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
